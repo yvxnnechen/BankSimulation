@@ -1,0 +1,947 @@
+Unsorted Accounts
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+
+Total Amount in Savings Accounts: 2634.78
+Total Amount in Checking Accounts: 4476.18
+Total Amount in CD Accounts: 4900.00
+Total Amount in All Accounts: 12010.96
+
+Account Numbers Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+
+Account Numbers Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+
+Account Numbers Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+
+SSN Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+
+SSN Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+
+SSN Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+
+Name Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+
+Name Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+
+Name Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+
+Balance Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+
+Balance Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+
+Balance Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     290.65
+     Reid	       Spencer	                 432972187	            123456	         Savings	            Opened	     304.23
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     501.44
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     777.77
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	     900.00         9/3/2021
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    2039.20
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    4000.00        9/11/2021
+
+Error: Menu Selection f does not exist
+
+Error: Menu Selection g does not exist
+
+Transaction Type: Balance Inquiry
+Account Number: 123456
+Current Balance: 304.23
+
+Transaction Type: Balance Inquiry
+Account Number: 793243
+Current Balance: 900.00
+
+Transaction Type: Balance Inquiry
+Account Number: 534019
+Current Balance: 1023.90
+
+Transaction Requested: Balance Inquiry
+Error: Account Number 222222 does not exist - Transaction Voided
+
+Transaction Type: Deposit
+Account Number: 123456
+Current Balance: 304.23
+Amount to Deposit: 296.10
+New Balance: 600.33
+
+Transaction Type: Deposit
+Account Number: 234897
+Current Balance: 955.80
+Amount to Deposit: -255.12
+New Balance: 955.80
+Error: -255.12 is not a valid amount - Transaction Voided
+
+Transaction Type: Deposit
+Account Number: 793243
+Current Balance: 900.00
+Amount to Deposit: 600.00
+New Balance: 1500.00
+New Maturity Date: 3/3/2022
+
+Transaction Type: Deposit
+Account Number: 793243
+Current Balance: 1500.00
+Amount to Deposit: 399.50
+New Balance: 1500.00
+Error: CD Maturity Date 3/3/2022 has not been met
+
+Transaction Type: Deposit
+Error: Account Number 111111 does not exist - Transaction Voided
+
+Transaction Type: Withdrawal
+Account Number: 712349
+Current Balance: 2039.20
+Amount to Withdraw: 1001.01
+New Balance: 1038.19
+
+Transaction Type: Withdrawal
+Account Number: 589530
+Current Balance: 777.77
+Amount to Withdraw: -166.59
+New Balance: 777.77
+Error: -166.59 is not a valid amount - Transaction Voided
+
+Transaction Type: Withdrawal
+Account Number: 389434
+Current Balance: 290.65
+Amount to Withdraw: 589.10
+New Balance: 290.65
+Error: Insufficient Funds - Transaction Voided
+
+Transaction Type: Withdrawal
+Error: Account Number 333333 does not exist - Transaction Voided
+
+Transaction Type: Withdrawal
+Account Number: 948732
+Current Balance: 4000.00
+Amount to Withdraw: 150.00
+New Balance: 3850.00
+New Maturity Date: 3/11/2023
+
+Transaction Type: Withdrawal
+Account Number: 948732
+Current Balance: 3850.00
+Amount to Withdraw: 100.00
+New Balance: 3850.00
+Error: CD Maturity Date 3/11/2023 has not been met
+
+Transaction Type: Open New Account
+Account Number: 325984
+Current Balance: 831.10
+Account has successfully been opened!
+
+Transaction Type: Open New Account
+Account Number: 489230
+Current Balance: 700.00
+Account has successfully been opened!
+
+Transaction Type: Open New Account
+Account Number: 654632
+Current Balance: 264.08
+Account has successfully been opened!
+
+Transaction Type: Open New Account
+Account Number: 701234
+Current Balance: 3280.40
+Account has successfully been opened!
+
+Transaction Type: Open New Account
+Account Number: 458361
+Current Balance: 1200.00
+Account has successfully been opened!
+
+Transaction Type: Open New Account
+Account Number: 987346
+Current Balance: 2223.09
+Account has successfully been opened!
+
+Transaction Type: Open New Account
+Account Number: 239848
+Current Balance: 664.00
+Account has successfully been opened!
+
+Transaction Type: Clear Check
+Account Number: 389434
+Current Balance: 290.65
+Amount to Withdraw: 25.65
+New Balance: 263.50
+
+Transaction Type: Clear Check
+Account Number: 589530
+Current Balance: 777.77
+Amount to Withdraw: -100.99
+New Balance: 777.77
+Error: -100.99 is not a valid amount - Transaction Voided
+
+Transaction Type: Clear Check
+Account Number: 589530
+Current Balance: 777.77
+Amount to Withdraw: 1111.11
+New Balance: 775.27
+Error: Insufficient Funds - Bounced Check
+
+Transaction Type: Clear Check
+Account Number: 438971
+Current Balance: 867.12
+Amount to Withdraw: 123.34
+New Balance: 867.12
+Error: Post Dated Check - Transaction Voided
+
+Transaction Type: Clear Check
+Account Number: 712349
+Current Balance: 1038.19
+Amount to Withdraw: 87.25
+New Balance: 1038.19
+Error: Check too old - Date of Check: 1/11/2020
+
+Transaction Type: Clear Check
+Error: Account Number 999999 does not exist - Transaction Voided
+
+Transaction Type: Withdrawal
+Account Number: 654632
+Current Balance: 264.08
+Amount to Withdraw: 264.08
+New Balance: 0.00
+
+Transaction Type: Close Account
+Account Number: 654632
+CurrentBalance: 0.00
+Account has successfully been closed!
+
+Transaction Type: Deposit
+Account Number: 701234
+Current Balance: 3280.40
+Amount to Deposit: 1102.10
+New Balance: 4382.50
+
+Transaction Type: Clear Check
+Account Number: 654632
+Current Balance: 0.0
+Amount to Withdraw: 324.95
+New Balance: 0.0
+Error: Account Number 654632 is closed and transactions cannot be performed - Transaction Voided
+
+Transaction Type: Deposit
+Account Number: 654632
+Current Balance: 0.00
+Amount to Deposit: 500.99
+New Balance: 0.00
+Error: Account Number 654632 is closed and transactions cannot be performed - Transaction Voided
+
+Transaction Type: Close Account
+Error: Account Number 454545 does not exist - Transaction Voided
+
+Transaction Type: Balance Inquiry
+Account Number: 123456
+Current Balance: 600.33
+
+Transaction Type: Balance Inquiry
+Account Number: 458361
+Current Balance: 1200.00
+
+Transaction Type: Withdrawal
+Account Number: 123456
+Current Balance: 600.33
+Amount to Withdraw: 600.33
+New Balance: 0.00
+
+Transaction Type: Delete Account
+Error: Account 701234 Is Not Closed - Transaction Voided
+
+Transaction Type: Close Account
+Account Number: 123456
+CurrentBalance: 0.00
+Account has successfully been closed!
+
+Transaction Type: Deposit
+Account Number: 632948
+Current Balance: 501.44
+Amount to Deposit: -896.22
+New Balance: 501.44
+Error: -896.22 is not a valid amount - Transaction Voided
+
+Transaction Type: Reopen Account
+Account Number: 654632
+Success!
+
+Transaction Type: Balance Inquiry
+Account Number: 632948
+Current Balance: 501.44
+
+Transaction Type: Withdrawal
+Account Number: 632948
+Current Balance: 501.44
+Amount to Withdraw: 137.48
+New Balance: 363.96
+
+Transaction Type: Delete Account
+Error: Account 632948 Is Not Closed - Transaction Voided
+
+Transaction Type: Balance Inquiry
+Account Number: 654632
+Current Balance: 0.00
+
+Transaction Type: Deposit
+Account Number: 654632
+Current Balance: 0.00
+Amount to Deposit: 321.45
+New Balance: 321.45
+
+Transaction Type: Deposit
+Account Number: 793243
+Current Balance: 1500.00
+Amount to Deposit: 50.50
+New Balance: 1500.00
+Error: CD Maturity Date 3/3/2022 has not been met
+
+Transaction Type: Close Account
+Error: Account Number 888888 does not exist - Transaction Voided
+
+Transaction Type: Account Information
+SSN: 432972187
+Account Number		Account Type		Account Status		Balance		MaturityDate
+        123456		     Savings		        Closed		   0.00
+        712349		    Checking		        Opened		1038.19
+        948732		          CD		        Opened		3850.00		  10/13/2021
+
+Transaction Type: Account Information
+SSN: 765443210
+Account Number		Account Type		Account Status		Balance		MaturityDate
+        701234		     Savings		        Opened		4382.50
+        458361		          CD		        Opened		1200.00		    3/3/2022
+        987346		    Checking		        Opened		2223.09
+
+Transaction Type: Account Information
+SSN: 791489302
+Account Number		Account Type		Account Status		Balance		MaturityDate
+        438971		    Checking		        Opened		 867.12
+
+Transaction Type: Account Information
+SSN: 787878787
+Error: Social Security Number 787878787 does not have any existing accounts - Transaction Voided
+
+Transaction Type: Balance Inquiry
+Account Number: 987346
+Current Balance: 2223.09
+
+Transaction Type: Open New Account
+Account Number: 885588
+Error: Account type Chase does not exist - Transaction Voided
+
+Transaction Type: Open New Account
+Account Number: 872531
+Current Balance: 2134.99
+Account has successfully been opened!
+
+Transaction Type: Withdrawal
+Account Number: 872531
+Current Balance: 2134.99
+Amount to Withdraw: 9000.00
+New Balance: 2134.99
+Error: Insufficient Funds - Transaction Voided
+
+Transaction Type: Clear Check
+Account Number: 872531
+Current Balance: 2134.99
+Amount to Withdraw: 105.3
+New Balance: 2134.99
+Error: Check too old - Date of Check: 5/05/2020
+
+Transaction Type: Deposit
+Account Number: 489230
+Current Balance: 700.00
+Amount to Deposit: 457.00
+New Balance: 1157.00
+New Maturity Date: 3/6/2023
+
+Transaction Type: Close Account
+Account Number: 489230
+Current Balance: 1157.00
+Error: Cannot close Account 489230 with balance - Transaction Voided
+
+Transaction Type: Delete Account
+Account Number: 123456
+Account has successfully been deleted!
+
+Transaction Type: Delete Account
+Error: Account 239848 Is Not Closed - Transaction Voided
+
+Transaction Type: Clear Check
+Account Number: 701234
+Current Balance: 4382.5
+Amount to Withdraw: 380.5
+New Balance: 4382.5
+Error: Invalid Account Type - Transaction Voided
+
+Transaction Type: Balance Inquiry
+Account Number: 239848
+Current Balance: 664.00
+
+Transaction Type: Withdrawal
+Account Number: 239848
+Current Balance: 664.00
+Amount to Withdraw: 664.00
+New Balance: 0.00
+
+Transaction Type: Close Account
+Account Number: 239848
+CurrentBalance: 0.00
+Account has successfully been closed!
+
+Transaction Type: Delete Account
+Account Number: 239848
+Account has successfully been deleted!
+
+Error: Account Number 101010 does not exist - Transaction Voided
+
+Transaction Type: Withdrawal
+Account Number: 872531
+Current Balance: 2134.99
+Amount to Withdraw: 567.67
+New Balance: 1567.32
+
+Transaction Type: Withdrawal
+Account Number: 458361
+Current Balance: 1200.00
+Amount to Withdraw: 900.00
+New Balance: 1200.00
+Error: CD Maturity Date 10/30/2021 has not been met
+
+Transaction Type: Clear Check
+Account Number: 458361
+Current Balance: 1200.0
+Amount to Withdraw: 848.12
+New Balance: 1200.0
+Error: Invalid Account Type - Transaction Voided
+
+Transaction Type: Withdrawal
+Account Number: 987346
+Current Balance: 2223.09
+Amount to Withdraw: 1232.39
+New Balance: 990.70
+
+Transaction Type: Withdrawal
+Account Number: 701234
+Current Balance: 4382.50
+Amount to Withdraw: 560.10
+New Balance: 3822.40
+
+Transaction Type: Deposit
+Account Number: 987346
+Current Balance: 990.70
+Amount to Deposit: 5.91
+New Balance: 996.61
+
+Transaction Type: Close Account
+Account Number: 987346
+Current Balance: 996.61
+Error: Cannot close Account 987346 with balance - Transaction Voided
+
+Transaction Type: Clear Check
+Account Number: 987346
+Current Balance: 996.61
+Amount to Withdraw: 87.37
+New Balance: 996.61
+Error: Post Dated Check - Transaction Voided
+
+Transaction Type: Deposit
+Account Number: 872531
+Current Balance: 1567.32
+Amount to Deposit: 456.98
+New Balance: 2024.30
+
+Account Information with Transaction History
+SSN: 465123239
+
+Last Name		First Name		Social Security Number		Account Number		Account Type		Status		Balance		Maturity Date
+    Mosby		       Ted		             465123239		        654632		    Checking		Opened		 321.45
+
+	Date			   Transaction Type			Amount			Status			Balance
+10/13/2021			   Open New Account			  0.00			  Done			 264.08
+10/13/2021			         Withdrawal			264.08			  Done			   0.00
+10/13/2021			      Close Account			  0.00			  Done			   0.00
+10/13/2021			        Clear Check			324.95			Failed			   0.00			Error: Account Number 654632 is closed and transactions cannot be performed - Transaction Voided
+10/13/2021			            Deposit			500.99			Failed			   0.00			Error: Account Number 654632 is closed and transactions cannot be performed - Transaction Voided
+10/13/2021			     Reopen Account			  0.00			  Done			   0.00
+10/13/2021			    Balance Inquiry			  0.00			  Done			   0.00
+10/13/2021			            Deposit			321.45			  Done			 321.45
+10/13/2021			Transaction History			  0.00			  Done			 321.45
+
+Account Information with Transaction History
+SSN: 831209003
+
+Last Name		First Name		Social Security Number		Account Number		Account Type		Status		Balance		Maturity Date
+ Hotchner		     Aaron		             831209003		        632948		    Checking		Opened		 363.96
+
+	Date			   Transaction Type			Amount			Status			Balance
+10/13/2021			   Open New Account			501.44			  Done			 501.44
+10/13/2021			            Deposit			-896.22			Failed			 501.44			Error: -896.22 is not a valid amount - Transaction Voided
+10/13/2021			    Balance Inquiry			  0.00			  Done			 501.44
+10/13/2021			         Withdrawal			137.48			  Done			 363.96
+10/13/2021			     Delete Account			  0.00			Failed			 363.96			Account Is Not Closed
+10/13/2021			Transaction History			  0.00			  Done			 363.96
+
+Last Name		First Name		Social Security Number		Account Number		Account Type		Status		Balance		Maturity Date
+ Hotchner		     Aaron		             831209003		        872531		    Checking		Opened		2024.30
+
+	Date			   Transaction Type			Amount			Status			Balance
+10/13/2021			   Open New Account			  0.00			  Done			2134.99
+10/13/2021			         Withdrawal			9000.00			Failed			2134.99			Error: Insufficient Funds - Transaction Voided
+10/13/2021			        Clear Check			105.30			Failed			2134.99			Check Too Old - 5/5/2020
+10/13/2021			     Delete Account			  0.00			  Done			   0.00
+10/13/2021			         Withdrawal			567.67			  Done			1567.32
+10/13/2021			            Deposit			456.98			  Done			2024.30
+10/13/2021			Transaction History			  0.00			  Done			2024.30
+
+Account Information with Transaction History
+SSN: 765443210
+
+Last Name		First Name		Social Security Number		Account Number		Account Type		Status		Balance		Maturity Date
+  Stinson		    Barney		             765443210		        701234		     Savings		Opened		3822.40
+
+	Date			   Transaction Type			Amount			Status			Balance
+10/13/2021			   Open New Account			  0.00			  Done			3280.40
+10/13/2021			            Deposit			1102.10			  Done			4382.50
+10/13/2021			     Delete Account			  0.00			Failed			4382.50			Account Is Not Closed
+10/13/2021			        Clear Check			380.50			Failed			4382.50			Error: Invalid Account Type - Transaction Voided
+10/13/2021			         Withdrawal			560.10			  Done			3822.40
+10/13/2021			Transaction History			  0.00			  Done			3822.40
+
+Last Name		First Name		Social Security Number		Account Number		Account Type		Status		Balance		Maturity Date
+  Stinson		    Barney		             765443210		        458361		          CD		Opened		1200.00		   10/30/2021
+
+	Date			   Transaction Type			Amount			Status			Balance
+10/13/2021			   Open New Account			  0.00			  Done			1200.00
+10/13/2021			    Balance Inquiry			  0.00			  Done			1200.00
+10/13/2021			         Withdrawal			900.00			Failed			1200.00			Error: CD Maturity Date 10/30/2021 has not been met
+10/13/2021			        Clear Check			848.12			Failed			1200.00			Error: Invalid Account Type - Transaction Voided
+10/13/2021			Transaction History			  0.00			  Done			1200.00
+
+Last Name		First Name		Social Security Number		Account Number		Account Type		Status		Balance		Maturity Date
+  Stinson		    Barney		             765443210		        987346		    Checking		Opened		 996.61
+
+	Date			   Transaction Type			Amount			Status			Balance
+10/13/2021			   Open New Account			  0.00			  Done			2223.09
+10/13/2021			    Balance Inquiry			  0.00			  Done			2223.09
+10/13/2021			         Withdrawal			1232.39			  Done			 990.70
+10/13/2021			            Deposit			  5.91			  Done			 996.61
+10/13/2021			      Close Account			  0.00			Failed			 996.61			Error: Cannot close Account 987346 with balance - Transaction Voided
+10/13/2021			        Clear Check			 87.37			Failed			 996.61			Error: Post Dated Check - Transaction Voided
+10/13/2021			Transaction History			  0.00			  Done			 996.61
+
+Account Information with Transaction History
+SSN: 879456123
+Error: Social Security Number 879456123 does not have any existing accounts - Transaction Voided
+
+Unsorted Accounts
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+
+Total Amount in Savings Accounts: 6984.05
+Total Amount in Checking Accounts: 6650.40
+Total Amount in CD Accounts: 7707.00
+Total Amount in All Accounts: 21341.45
+
+Account Numbers Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+
+Account Numbers Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+
+Account Numbers Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+
+SSN Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+
+SSN Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+
+SSN Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+
+Name Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+
+Name Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+
+Name Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+
+Balance Quick Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+
+Balance Bubble Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+
+Balance Insertion Sort
+Last Name		First Name		Social Security Number		Account Number		Account Type		Account Status		Balance		MaturityDate
+   Morgan	         Derek	                 285310940	            389434	        Checking	            Opened	     263.50
+    Mosby	           Ted	                 465123239	            654632	        Checking	            Opened	     321.45
+ Hotchner	          Erin	                 609328135	            879266	         Savings	            Opened	     350.85
+ Hotchner	         Aaron	                 831209003	            632948	        Checking	            Opened	     363.96
+   Gideon	         Jason	                 592341221	            589530	        Checking	            Opened	     775.27
+ Erickson	       Marshal	                 478912839	            325984	         Savings	            Opened	     831.10
+    Rossi	         David	                 791489302	            438971	        Checking	            Opened	     867.12
+ Prentiss	         Emily	                 931287459	            234897	         Savings	            Opened	     955.80
+  Stinson	        Barney	                 765443210	            987346	        Checking	            Opened	     996.61
+   Morgan	         Derek	                 285310940	            534019	         Savings	            Opened	    1023.90
+     Reid	       Spencer	                 432972187	            712349	        Checking	            Opened	    1038.19
+   Aldrin	          Lily	                 848562712	            489230	              CD	            Opened	    1157.00         3/6/2023
+  Stinson	        Barney	                 765443210	            458361	              CD	            Opened	    1200.00       10/30/2021
+   Gideon	         Jason	                 592341221	            793243	              CD	            Opened	    1500.00         3/3/2022
+ Hotchner	         Aaron	                 831209003	            872531	        Checking	            Opened	    2024.30
+  Stinson	        Barney	                 765443210	            701234	         Savings	            Opened	    3822.40
+     Reid	       Spencer	                 432972187	            948732	              CD	            Opened	    3850.00        3/11/2023
+
+
